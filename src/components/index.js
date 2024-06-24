@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Navbar.jsx";
+export { default as Hero } from "./Hero.jsx";
+export { default as Curriencies } from "./Curriencies.jsx";
+export { default as Users } from "./Users.jsx";
+export { default as Dashboard } from "./Dashboard.jsx";
+export { default as Footer } from "./Footer.jsx";
+export { default as FrequentlyAsk } from "./FrequentlyAsk.jsx";
+export { default as Sponsers } from "./Sponsers.jsx";
+export { default as Discover } from "./Discover.jsx";
